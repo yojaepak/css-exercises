@@ -18,10 +18,14 @@ a {
   font-size: 24px;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 
 .container {
   display: flex;
-  flex: auto;
+  flex: 1;
 }
 
 .header {
